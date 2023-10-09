@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknews_app_back=self.webpackChunknews_app_back||[]).push([[2492],{20289:(O,s,e)=>{e.r(s),e.d(s,{default:()=>r});var t=e(67294),n=e(57993),_=e(86706),E=e(36364),a=e(43467);const r=()=>{const P=(0,_.v9)(E._);return t.createElement(n.O4,{permissions:P.settings["transfer-tokens"].read},t.createElement(a.Z,null))}}}]);
