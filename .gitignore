@@ -91,6 +91,7 @@
 # logs
 # results
 node_modules
+build
 .node_history
 
 # ############################
@@ -106,4 +107,4 @@ node_modules
 # license.txt
 # exports
 # dist
-build
+
